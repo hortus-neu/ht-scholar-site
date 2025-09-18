@@ -103,6 +103,8 @@ skills:
 #   - name: Chinese
 #     percent: 100
 ---
-Tao He is a graduate student in the MSCS-Align program at Northeastern University (Khoury College of Computer Sciences, Boston). Her academic focus is on large language models, multimodal learning, and AI safety. She is also interested in the intersection of neuroscience and AI, exploring how brain-inspired approaches can advance trustworthy machine learning.  
+Tao He is a graduate student in the MSCS-Align program at Northeastern University (Khoury College of Computer Sciences, Boston). With a background in Economics and Management and influenced by the application of data analysis and machine learning during internships, she transitioned into Computer Science to pursue her passion for technology and research.
+
+ Her academic focus is on large language models, multimodal learning, and AI safety. She is also interested in the intersection of neuroscience and AI, exploring how brain-inspired approaches can advance trustworthy machine learning.  
 
 Outside of study and research, Tao enjoys journaling, exploring new cities, and building creative side projects that connect technology with everyday life.
