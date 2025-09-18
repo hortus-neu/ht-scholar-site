@@ -1,3 +1,0 @@
-# github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v0.0.0-20231109145828-d9695efa098f
-# github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.7.1-0.20250917221414-04890f328a50
-# github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.2.0
