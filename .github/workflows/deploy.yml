@@ -80,6 +80,14 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
+    - name: Clean Hugo modules
+      run: hugo mod clean
+
+    - name: Update Hugo modules
+      run: hugo mod get -u ./...
+
+    - name: Tidy Hugo modules
+      run: hugo mod tidy
 
     - name: Build with Hugo
       env:
