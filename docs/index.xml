@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.com/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://example.com/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/sampple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/sampple/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;content:
+  title: &#39;📚 My Research&#39;
+  subtitle: &#39;&#39;
+  text: |-
+    Use this area to speak to your mission. I&#39;m a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+    I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
+    Please reach out to collaborate 😃
+    TBD
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tao He</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Tao He is a graduate student in the MSCS-Align program at Northeastern University (Khoury College of Computer Sciences, Boston). Her academic focus is on large language models, multimodal learning, and AI safety. She is also interested in the intersection of neuroscience and AI, exploring how brain-inspired approaches can advance trustworthy machine learning.&lt;/p&gt;
+&lt;p&gt;Outside of study and research, Tao enjoys journaling, exploring new cities, and building creative side projects that connect technology with everyday life.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
